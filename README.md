@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá! Eu sou o Felipe Nonato  
 
-<!--
-**lipeleoneli/lipeleoneli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor **FullStack**  
+🎓 Estudante de **Engenharia de Software** na PUC-Campinas (2024–2028).  
+📍 Campinas, São Paulo, Brasil  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+Mais de 2 anos de experiência.
+Focado em organização, resolução de problemas e entrega de resultados reais.  
+Gosto de trabalhar em equipe e liderar quando preciso.  
+Busco construir software que tenha propósito.
+
+---
+
+## 🧠 Tecnologias e Ferramentas
+`C` | `Python` | `TypeScript` | `Kotlin` | `Java`  
+`HTML` | `CSS` | `JavaScript` | `Node.js`  
+`MySQL` | `Firebase` | `Oracle SQL`
+
+---
+
+## 🌍 Idiomas
+🇧🇷 Português · 🇺🇸 Inglês (B2)
+
+---
+
+## 📫 Contato
+📧 **[lipeleoneli@gmail.com](mailto:lipeleoneli@gmail.com)**  
+🔗 [LinkedIn](https://www.linkedin.com/in/felipe-nonato-leoneli-ab679427a/)  
+💼 [GitHub](https://github.com/lipeleoneli)
